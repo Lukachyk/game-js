@@ -54,3 +54,22 @@
     top: 150px;
   }
 }
+
+.alert {
+  text-align: center;
+}
+#return {
+  margin-right: 50%;
+  margin-left: 50%;
+  margin-top: 10px;
+  border: black 1px solid;
+  width: 50px;
+  text-align: center;
+  border-radius: 23%;
+  background-color: #8442f5;
+}
+
+a {
+  color: #000;
+  margin: auto;
+}
