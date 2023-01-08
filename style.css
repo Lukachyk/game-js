@@ -73,3 +73,12 @@ a {
   color: #000;
   margin: auto;
 }
+
+summary {
+  text-align: center;
+  margin-top: 80px;
+  font-size: 35px;
+  color: #4257f5;
+
+  font-family: "Pacifico", cursive;
+}
